@@ -1,0 +1,1 @@
+Hello, this is my first document that I'm going to save using my terminal.
