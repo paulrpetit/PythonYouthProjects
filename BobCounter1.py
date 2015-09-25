@@ -8,6 +8,7 @@ for i in range(1, len(s)):
 	else:
 		continue
 print bob
+print "Done"
 
 			
 				
